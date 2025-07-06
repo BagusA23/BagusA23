@@ -60,5 +60,5 @@
 
 ---
 
-> 🚀 “Build fast, break stuff, learn faster.” — Lu (mungkin nanti)
+> 🚀 “Build fast, break stuff, learn faster.”
 
