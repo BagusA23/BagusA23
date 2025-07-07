@@ -36,7 +36,7 @@ const BagusArdiansyah = {
     ],
     funProjects: [
         "Smart Chicken Coop 🐔", 
-        "IoT Farming 🌾"
+        "Smart Home"
     ],
     motto: "Code, Connect, Create.",
     askMeAbout: [
@@ -125,15 +125,15 @@ const BagusArdiansyah = {
         <h3>🐔 Smart Chicken Coop</h3>
         <img src="https://dummyimage.com/400x200/FF6B6B/ffffff&text=Smart+Chicken+Coop" width="100%"/>
         <p><em>IoT-based automated chicken coop with ESP32, sensors, and mobile monitoring.</em></p>
-        <a href="https://github.com/BagusA23/smart-chicken-coop">
+        <a href="https://github.com/BagusA23/KerebanAyam">
           <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td width="50%">
-        <h3>🌾 IoT Farming System</h3>
+        <h3>Smart Home</h3>
         <img src="https://dummyimage.com/400x200/4ECDC4/ffffff&text=IoT+Farming" width="100%"/>
-        <p><em>Automated irrigation and monitoring system for smart agriculture.</em></p>
-        <a href="https://github.com/BagusA23/iot-farming">
+        <p><em>Smart Home integertaion With Esp32.</em></p>
+        <a href="https://github.com/BagusA23/Smart-home">
           <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
