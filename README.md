@@ -131,7 +131,7 @@ const BagusArdiansyah = {
       </td>
       <td width="50%">
         <h3>Smart Home</h3>
-        <img src="https://dummyimage.com/400x200/4ECDC4/ffffff&text=IoT+Farming" width="100%"/>
+        <img src="https://dummyimage.com/400x200/4ECDC4/ffffff&text=Smart+Home" width="100%"/>
         <p><em>Smart Home integertaion With Esp32.</em></p>
         <a href="https://github.com/BagusA23/Smart-home">
           <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
